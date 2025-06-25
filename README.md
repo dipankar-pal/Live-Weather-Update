@@ -2,7 +2,7 @@
 
 This is a real-time **Weather Monitoring Dashboard** built using **Power BI**, designed to visualize live weather data using web connectors and modern BI visuals.
 
-![Dashboard Preview](./Screenshot.png)
+
 
 ---
 
@@ -28,11 +28,7 @@ This is a real-time **Weather Monitoring Dashboard** built using **Power BI**, d
 
 ---
 
-## 📸 Preview
 
-| Main View | Air Quality Index |
-|-----------|-------------------|
-| ![Main Dashboard](./Screenshot.png) | ![AQI](./Screenshot.png) |
 
 ---
 
@@ -44,13 +40,7 @@ This is a real-time **Weather Monitoring Dashboard** built using **Power BI**, d
 - Auto-refresh setup in Power BI Service
 - Dashboard UI/UX design with dark mode
 
----
 
-## 📽️ Demo
-
-*Coming soon* – video walkthrough of the dashboard.
-
----
 
 ## 💡 How to Use
 
@@ -70,7 +60,7 @@ This is a real-time **Weather Monitoring Dashboard** built using **Power BI**, d
 ## 🌐 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/dipankar-pal-dataanalyst/)
-- [YouTube - RoboLens Creation](https://www.youtube.com/@RoboLensCreation)
+
 
 ---
 
